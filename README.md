@@ -1,1 +1,1 @@
-# oasis-infobyte-java-task-1
+# oasis-infobyte-java-tasks
